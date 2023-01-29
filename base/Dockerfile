@@ -24,6 +24,7 @@ RUN apk add --update --no-cache \
     libacl \
     postgresql-client \
     mariadb-client \
+    mariadb-connector-c \
     mongodb-tools \
     curl \
     findmnt \
